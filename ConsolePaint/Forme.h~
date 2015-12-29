@@ -1,4 +1,13 @@
-
+/*************************************************************************
+                           Forme.h  -  Declaration des méthodes et
+                           attributs de la classe Forme
+                             -------------------
+    début
+    *      : 22 octobre 2014
+    copyright            : (C) 2014 Cédric Boscher et Romain Bourrier
+    e-mail               : cedric.boscher@insa-lyon.fr
+                           romain.bourrier@insa-lyon.fr
+*************************************************************************/
 
 //------ Interface de la classe <Forme> (fichier Forme.h) ------
 

@@ -2,8 +2,9 @@
  main.cpp - Programme Principal
  -------------------
  d�but                : 14 Janvier 2015
- copyright            : (C) 2014 Arda ICMEZs
+ copyright            : (C) 2014 Arda I�mez et Cedric Boscher
  e-mail               : arda.icmez@insa-lyon.fr
+ cedric.boscher@insa-lyon.fr
  *************************************************************************/
 
 using namespace std;
